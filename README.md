@@ -2,7 +2,7 @@
 
 - Web development enthusiast
 - Love doing backend
-- Now learning cloud services and container technologies
+- Now learning cloud services and agentic ai
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/FikriAshraf95/FikriAshraf95/blob/main/images/dotnet.png"/>
